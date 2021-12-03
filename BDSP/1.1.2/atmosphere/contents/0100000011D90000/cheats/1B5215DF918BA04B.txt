@@ -1,0 +1,5 @@
+[60 Minute Game Time (On)]
+040B0000 0204B200 5281C208
+
+[90 Seconds Command Time (On)]
+040B0000 0204B1F8 52800B48
